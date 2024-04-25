@@ -12,6 +12,7 @@
  }
  .cards{
   margin: 20px;
+  border: 2px solid grey;
  }
  .navbar-brand{
   align-items: center;
